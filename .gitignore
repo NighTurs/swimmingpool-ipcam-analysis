@@ -1,0 +1,7 @@
+env
+nohup.out
+junk/*
+data/*
+notebooks/*
+!notebooks/*.py
+!notebooks/*.ipynb
